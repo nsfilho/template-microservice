@@ -667,9 +667,9 @@
     nanoid "^3.1.12"
 
 "@nsfilho/rabbitmq@^0.1.5":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@nsfilho/rabbitmq/-/rabbitmq-0.1.6.tgz#ee6b0476ed791fa9e5adbc68e35f23047f3078e1"
-  integrity sha512-ovswQ52hstvHju3vweLyUYf8OvycYJAyAOXGzuD6ITgUCEzZ7EME3LJKseunrHkyygQbpf/MBvP5s9U53KNFHQ==
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/@nsfilho/rabbitmq/-/rabbitmq-0.1.7.tgz#7adcac55c948c658dbf440e90ba3b4bb10be7f57"
+  integrity sha512-7GlikmwSzCtXvCa576OT2yNeCtK8kjyiQOsQAiSVI6bI9jO1eEO9PvO7rrhTA6Ah3iNW9KI5HFed65sJerDjdQ==
   dependencies:
     amqplib "^0.6.0"
     nanoid "^3.1.12"
