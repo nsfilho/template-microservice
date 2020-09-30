@@ -122,7 +122,7 @@ uniqueExecution({
     callback: async () => {
         assertExchange({
             name: EventsType.EXPRESS,
-            type: 'headers',
+            type: 'direct',
             advanced: {
                 durable: true,
                 autoDelete: false,
